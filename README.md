@@ -1,5 +1,5 @@
 
-This is a small project about using python scripts to scrape and save the data from Zoolert.com. This is inspired by our 4-target-stores trip this week. I drove around in Brooklyn trying to find some cleaning supplies and disinfecting wipes. But I got nothing. Later I found zoolert. So I decided to write a script and monitor the restocking activities online. 
+This is a small project about using python scripts to scrape and save the data from Zoolert.com. This is inspired by our 4-target-stores trip this week. I drove around in Brooklyn trying to find some cleaning supplies and disinfecting wipes. But I got nothing after vising 4 target stores and 1 costco. Later I found zoolert. So I decided to write a script and monitor the restocking activities online. 
 
 # About zoolert
 Zoolert alerts consumers of restock of products both online and offline. During Cov19, the household items related to cleaning and disinfectanting are frequently sold out on Amazon. Zoolert allows users to set up alerts to track restocks. 
