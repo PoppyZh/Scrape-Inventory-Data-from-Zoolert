@@ -18,5 +18,6 @@ Using the data I scraped from alst week, I did some simply visualization on when
 ![](n_restocks.PNG)
 ![](n_restocks_hour.PNG)
 
+## How long does it take for the restock to get depleted again? Duration is in minutes and shown in log
 ![](duration.PNG)
-![](retailer_byweekday.PNG)
+
