@@ -12,5 +12,5 @@ The notebook detailed how to extract home-related products from zoolert and thei
 # Results
 
 Using the data I scraped from alst week, I did some simply visualization on when did the retailers restock products such as disinfecting wipes and hand soaps, and how long does the stocks last before it runs out again. See the notebook for more info. 
-![](n_retailer.PNG)
+![](n_restocks.PNG)
 ![](retailer_byweekday.PNG)
