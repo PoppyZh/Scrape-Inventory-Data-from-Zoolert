@@ -17,7 +17,7 @@ The notebook detailed how to extract home-related products from zoolert and thei
 Using the data I scraped from alst week, I did some simply visualization on when did the retailers restock products such as disinfecting wipes and hand soaps, and how long does the stocks last before it runs out again. See the notebook or html file for more info. 
 
 ## The restocks by day of week and hour of day 
-
+It seems Wednesday is my friend. 
 ![](n_restocks.PNG)
 ![](n_restocks_hour.PNG)
 
